@@ -7,6 +7,7 @@
 ## 💼 Aspirations
 
 - Currently interning at RSM Singapore as a Data Science intern! I am highly keen on enhancing my skills and tech stack through internships, and always open to taking on new challenges and opportunities that various industries have to offer!
+- Seek to value-add and drive impact in my future internships, as that motivates me to perform well.
 - Actively participating in hackathons to keep myself updated on latest technology developments and gain some hands-on knowledge as well.
 - Seeking opportunities in machine learning engineering / business analytics.
 ---
