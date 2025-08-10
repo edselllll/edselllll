@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Edsel!
 
-🎓 I'm currently pursuing a Bachelor of Science (Honours) in Data Science & Analytics at the National University of Singapore (NUS), moving into my penultimate year!
+🎓 I'm currently pursuing a Bachelor of Science (Honours) in Data Science & Analytics at the National University of Singapore (NUS), currently in my penultimate year!
 
 ---
 
 ## 💼 Aspirations
 
-- Currently interning at RSM Singapore as a Data Science intern! I am highly keen on enhancing my skills and tech stack through internships, and always open to taking on new challenges and opportunities that various industries have to offer!
+- Currently interning at Shopee as a Data Analyst intern! I am highly keen on enhancing my skills and tech stack through internships, and always open to taking on new challenges and opportunities that various industries have to offer!
 - Seek to value-add and drive impact in my future internships, as that motivates me to perform well.
 - Actively participating in hackathons to keep myself updated on latest technology developments and gain some hands-on knowledge as well.
 - Seeking opportunities in machine learning engineering / business analytics.
@@ -15,16 +15,16 @@
 ## 🛠️ Tech Stack (Looking to grow!)
 
 **Languages & Libraries:**  
-`Python` including `numpy` `pandas` `scikit-learn` `spaCy` `XGBoost` `hyperopt` / `R` `SQL` `Alteryx` `VBA` `Java` `PyTorch`
+`Python` including `numpy` `pandas` `scikit-learn` `spaCy` / `R` `SQL` `Alteryx` `VBA` `Java` `PyTorch` 
 
 **Data Visualisation:**  
-`PowerBI` `ggplot2` `matplotlib` `Gephi` `streamlit`
+`PowerBI` `R` `tidyverse` `ggplot2` `matplotlib` `Gephi` `streamlit`
 
 **AI/ML & GenAI:**  
-`LLMs` `OpenAI API` `HuggingFace` `spaCy` `NLTK` `XGBoost` `Crew.AI`
+`LLMs` `OpenAI API` `HuggingFace` `spaCy` `NLTK` `XGBoost` `hyperopt` `Crew.AI` `Mistral.AI` 
 
 **Other Tools:**  
-`Git` `Docker` `Microsoft Office Suite` `Google Analytics` 
+`Git` `Docker` `Microsoft Office Suite` `Google Analytics` `Workato Platform` `Dataiku DSS`
 
 ---
 
@@ -33,7 +33,7 @@
 - Projects with complex and robust machine learning methods
 - Cloud computing
 - Data Engineering
-- Agentic AI and GenAI frameworks
+- Agentic AI and GenAI technologies 
 
 ---
 
