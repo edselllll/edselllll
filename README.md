@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edsel!
 
-🎓 I'm currently pursuing a Bachelor of Science (Honours) in Data Science & Analytics at the National University of Singapore (NUS), currently in my penultimate year!
+🎓 I'm currently pursuing a Bachelor of Science (Honours) in Data Science & Analytics at the National University of Singapore (NUS), currently in my penultimate year! I am an avid explorer in the world of data, and love to learn new things in the world of data and tech.
 
 ---
 
@@ -12,28 +12,29 @@
 - Seeking opportunities in machine learning engineering / business analytics.
 ---
 
-## 🛠️ Tech Stack (Looking to grow!)
+## 🛠️ Tech Stack (Looking to expand!)
 
 **Languages & Libraries:**  
-`Python` including `numpy` `pandas` `scikit-learn` `spaCy` / `R` `SQL` `Alteryx` `VBA` `Java` `PyTorch` 
+`Python` including `numpy` `pandas` `scikit-learn` `spaCy` / `PyTorch` `R` `SQL` `VBA` `Excel` `Java` `Git` `Docker`
 
 **Data Visualisation:**  
-`PowerBI` `R` `tidyverse` `ggplot2` `matplotlib` `Gephi` `streamlit`
+`PowerBI` `Tableau` `R` `tidyverse` `ggplot2` `matplotlib` `Gephi` `streamlit`
 
 **AI/ML & GenAI:**  
-`LLMs` `OpenAI API` `HuggingFace` `spaCy` `NLTK` `XGBoost` `hyperopt` `Crew.AI` `Mistral.AI` 
+`LLMs` `OpenAI API` `HuggingFace` `spaCy` `NLTK` `XGBoost` `hyperopt` `Crew.AI` `Mistral.AI` `Microsoft Copilot Studio`
 
 **Other Tools:**  
-`Git` `Docker` `Microsoft Office Suite` `Google Analytics` `Workato Platform` `Dataiku DSS`
+`Microsoft Office Suite` `Google Analytics` `Workato Platform` `Dataiku DSS` `Alteryx`
+
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Projects with complex and robust machine learning methods
-- Cloud computing
 - Data Engineering
 - Agentic AI and GenAI technologies 
+- Projects with complex and robust machine learning methods
+- Cloud computing
 
 ---
 
