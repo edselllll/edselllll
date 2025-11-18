@@ -18,10 +18,10 @@
 `Python` including `numpy` `pandas` `scikit-learn` `spaCy` / `PyTorch` `R` `SQL` `VBA` `Excel` `Java` `Git` `Docker`
 
 **Data Visualisation:**  
-`PowerBI` `Tableau` `R` `tidyverse` `ggplot2` `matplotlib` `Gephi` `streamlit`
+`PowerBI` `Tableau` `R` `tidyverse` `ggplot2` `matplotlib` `Gephi` `streamlit` `dash` `shiny`
 
 **AI/ML & GenAI:**  
-`LLMs` `OpenAI API` `HuggingFace` `spaCy` `NLTK` `XGBoost` `hyperopt` `Crew.AI` `Mistral.AI` `Microsoft Copilot Studio`
+`LLMs` `OpenAI API` `HuggingFace` `spaCy` `NLTK` `XGBoost` `hyperopt` `Crew.AI` `Mistral.AI` `Microsoft Copilot Studio` `RAG`
 
 **Other Tools:**  
 `Microsoft Office Suite` `Google Analytics` `Workato Platform` `Dataiku DSS` `Alteryx`
