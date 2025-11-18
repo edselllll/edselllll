@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack (Looking to expand!)
 
 **Languages & Libraries:**  
-`Python` including `numpy` `pandas` `scikit-learn` `spaCy` / `PyTorch` `R` `SQL` `VBA` `Excel` `Java` `Git` `Docker`
+`Python` including `numpy` `pandas` `scikit-learn` `spaCy` / `PyTorch` `R` `SQL` `Hadoop` `PySpark` `VBA` `Excel` `Java` `Git` `Docker`
 
 **Data Visualisation:**  
 `PowerBI` `Tableau` `R` `tidyverse` `ggplot2` `matplotlib` `Gephi` `streamlit` `dash` `shiny`
